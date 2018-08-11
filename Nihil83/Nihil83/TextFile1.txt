@@ -1,0 +1,11 @@
+﻿Console.Writeline(); prints to the console.
+Console.Readline(); read's from the console.
+Convert.ToInt32(); convert's string to integer
+if(){}   If statement 
+
+
+
+
+
+
+logic error vs. syntax error
